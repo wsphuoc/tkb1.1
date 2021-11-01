@@ -12,7 +12,7 @@ let tnmonhoc=[
     {
         id: "dduc",
         ten: "Đạo đức",
-        link: ""
+        link: "https://meet.google.com/yuy-kzka-hpz"//OK
     },
     {
         id: "tduc",
