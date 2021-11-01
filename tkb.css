@@ -1,0 +1,27 @@
+body{
+    margin-top:12px;
+}
+table.table-tkb td, table.table-tkb th{
+    vertical-align: middle;
+    text-align: center;
+}
+table.table-tkb tbody td{
+    vertical-align: top;
+}
+.tkb-break{
+    border-bottom: thin solid rgb(200,200,200);
+}
+.tkb-break-last{
+    border-bottom: none;
+}
+.over-white{
+    background: rgba(255,255,255,0.5);
+    font-weight: bold;
+}
+.moni{
+    margin-bottom: 5px;
+}
+.moni .nav-link{
+    color:rgb(0, 69, 133);
+    font-size: 14pt;
+}
