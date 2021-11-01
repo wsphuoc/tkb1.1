@@ -185,7 +185,8 @@ function tntkbhtml(thu, tg){
                                 s += '</a>';
                             s += '</div>';
                             s += '<div class="tkb-break over-white">'
-                            s += '<p>' + linkarr[nlinkarr-1] + '</p>'
+                            s += '<p>' + linkarr[nlinkarr-1] + '<br />'
+                            s += stg + '</p>'
                             s += '</div>';
                         s += '</div>';
                     }
@@ -197,7 +198,7 @@ function tntkbhtml(thu, tg){
                                 s += '</a>';
                             s += '</div>';
                             s += '<div class="tkb-break over-white">'
-                            s += '<p> </p>';
+                            s += '<p>' + stg + '</p>';
                             s += '</div>';
                         s += '</div>';
                     }
